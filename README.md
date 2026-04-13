@@ -15,6 +15,9 @@ Official Site: http://ninvaders.sourceforge.net/
 
 1. INSTALLING
 -------------
+```
+./configure && make
+```
 Compiling and installing should be really straightforward, just type in 
 "make" on your command prompt and you'll get the binary file. If not, please
 edit the makefile. Once you have compiled it, copy it (as root) to your
